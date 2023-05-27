@@ -82,8 +82,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
 <info>Assista aqui a série O Mandaloriano
 [COLOR orange][B]STAR WARS[/B][/COLOR]
-[COLOR orange][B]ANOS  - 2019 a 2023[/B][/COLOR]
-[COLOR orange][B]3 TEMPS  - 24 EPS[/B][/COLOR]</info>
+[COLOR orange][B]ANOS - 2019 a 2023[/B][/COLOR]
+[COLOR orange][B]3 TEMPS - 24 EPS[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -116,8 +116,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg</fanart>
 <info>Assista aqui a série The Last of Us.
 [COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]ANO  - 2023[/B][/COLOR]
-[COLOR orange][B]01 TEMP  - 09 EPS[/B][/COLOR]</info>
+[COLOR orange][B]ANO - 2023[/B][/COLOR]
+[COLOR orange][B]01 TEMP - 09 EPS[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Todo Dia a Mesma Noite (2023) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2A3-SRS-Todo.Dia.a.Mesma.Noite.TOR-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/9qrmQbmEEMc0AsMWX1LKw1ZE5NY.jpg</fanart>
+<info>Assista aqui a série Todo Dia a Mesma Noite.
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]ANO - 2023[/B][/COLOR]
+[COLOR orange][B]01 TEMP - 05 EPS[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
