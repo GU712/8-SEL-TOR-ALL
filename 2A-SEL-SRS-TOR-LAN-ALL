@@ -23,8 +23,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]Mestre e Aprendiz[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W253V73HAKXBJ4UCIBCZUBFB5DDTBDTD
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]Trabalho e Problemas[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]Trabalho e Problemas[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W253V73HAKXBJ4UCIBCZUBFB5DDTBDTD
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]Hora de Voar[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6524015fd1a125379bd6e83e82bb865f122f81d6
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]Jedi Caídos[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee63fa0d91e8a7689aeca8574721792f72af51b
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
@@ -32,6 +36,36 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]A Hora das Bruxas[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ba7033c152ca92bce941f66085138e971fd2a7b
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]O Lugar Escuro[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b08b65108bf9e52b34a354f8a537d682671c1b
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]Segunda Linha[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b08b65108bf9e52b34a354f8a537d682671c1b
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]Curioso e Curioso[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e3a894bfdf9cb3023ddb72d0f6f8727c0f85af9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]O Escravo[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56177ca5f59d03618fae10d64d365402f01e9b53
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -49,7 +83,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/48SpcKvilzTdcyuPmzr93TsVxCJ.jpg" group-title="[COLOR white][B]Invasão Secreta (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]Ressurreição[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/48SpcKvilzTdcyuPmzr93TsVxCJ.jpg" group-title="[COLOR white][B]Black Knight (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01[COLOR yellow] -> [COLOR white]Black Knight[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b36b2d3676c9d81a4b08df846da7b3841d13dd5e
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -63,7 +97,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA C				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5z3QpmUFQgszv2aOlLS7pekPpkI.jpg" group-title="[COLOR white][B]Cangaço Novo (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5z3QpmUFQgszv2aOlLS7pekPpkI.jpg" group-title="[COLOR white][B]Cangaço Novo (2023)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5z3QpmUFQgszv2aOlLS7pekPpkI.jpg" group-title="[COLOR white][B]Cangaço Novo (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01[COLOR yellow] -> [COLOR white]Cangaso Novo[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82da8d7ef30775103b825d2ae0388f38a5d29b8a
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Cangaço Novo (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Cangaço Novo (2023)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Cangaço Novo (2023)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA D				
