@@ -27,8 +27,12 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W253V73HAKXBJ4UCIBC
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W253V73HAKXBJ4UCIBCZUBFB5DDTBDTD
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]Hora de Voar[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6524015fd1a125379bd6e83e82bb865f122f81d6
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]Jedi Caídos[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]Jedi Caídos[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee63fa0d91e8a7689aeca8574721792f72af51b
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]Guerreiro das Sombras[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:616859e1862f65c31d2192be4b61d9899f85e1d2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]part 6[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:616859e1862f65c31d2192be4b61d9899f85e1d2
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
@@ -38,7 +42,6 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" group-title="[COLOR white][B]As Bruxas Mayfair de Anne Rice (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
@@ -223,6 +226,11 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584ee43347cb32ec351
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07812c66cf6981eade728077d6dcaed23efee8b4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]A Mentira é a Verdade[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:946635d5a62df3f2a38e3fdbd4dc20c46fc0cd26
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E07[COLOR yellow] -> [COLOR white]Desejo Que a Luta Acabe[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a85f4bac581388b0b3b1ba95abef80e2db19e963
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E08[COLOR yellow] -> [COLOR white]Partir é a Ilusão da Ordem[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82d1b762d1b34ced5e459158f830b88cdaf1a49c
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
@@ -251,7 +259,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA T				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA U				
